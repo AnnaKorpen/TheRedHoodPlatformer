@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ce8b0e51f00125409b315156e98b2ce, type: 3}
+  m_Name: PlayerCurrentState
+  m_EditorClassIdentifier: 
+  currentDirection: 0
+  isFacingRight: 0
+  isDashing: 0
+  isGrounded: 1
+  isNearGround: 1
+  onWallRight: 0
+  onWallLeft: 0
+  isControllerOn: 1
+  canMove: 1
+  canJump: 1
+  canDash: 1
+  canAttack: 1
+  isImmuned: 0
+  currentDamageDealer: {x: 3.9105897, y: 0.647, z: 0}

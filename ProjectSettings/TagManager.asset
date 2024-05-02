@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemies
+  - InteractableObjects
+  - Triggers
+  - NonInteractableObjects
+  - Walls
+  - DamageDealer
+  - Barriers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2841134077
+    locked: 0
+  - name: DecorationsInBack
+    uniqueID: 88816911
+    locked: 0
+  - name: Water
+    uniqueID: 646292783
+    locked: 0
+  - name: InteractableObjects
+    uniqueID: 3315256247
+    locked: 0
+  - name: Barriers
+    uniqueID: 708633009
+    locked: 0
+  - name: Ground
+    uniqueID: 1553897115
+    locked: 0
+  - name: Player
+    uniqueID: 1123551463
+    locked: 0
+  - name: Enemies
+    uniqueID: 2429586735
+    locked: 0
+  - name: Effects
+    uniqueID: 3704354879
+    locked: 0
+  - name: DecorationsInFront
+    uniqueID: 1795482909
+    locked: 0
